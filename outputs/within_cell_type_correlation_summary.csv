@@ -1,0 +1,7 @@
+cell_type,total_tests,significant_associations,mean_cells
+B cells,192,14,342.0
+CD14+ Monocytes,192,31,480.0
+CD4 T cells,192,53,1144.0
+CD8 T cells,192,64,316.0
+FCGR3A+ Monocytes,192,15,150.0
+NK cells,192,25,154.0
